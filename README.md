@@ -24,7 +24,7 @@ Product code is private (industrial / NDA). Role is development in a customer or
 | Project | Role | Stack | Link |
 | --- | --- | --- | --- |
 | Visual SCADA | Frontend + Node.js config server | Angular, TypeScript, RxJS, Node.js, OPC UA | [vscada.ru](https://vscada.ru/) |
-| My Subaru | Donteco contractor: new features, redesign, maintenance. Publisher: SUBARU MOTOR | Swift, UIKit | [App Store](https://apps.apple.com/ru/app/my-subaru/id1107647522) |
+| My Subaru | New features, redesign, maintenance. Publisher: SUBARU MOTOR | Swift, UIKit | [App Store](https://apps.apple.com/ru/app/my-subaru/id1107647522) |
 | Cubic Remote | iOS development | Swift, audio | [App Store](https://apps.apple.com/us/app/cubic-remote/id1518945231) |
 | ATMEEX | iOS development | Swift, IoT | [App Store](https://apps.apple.com/us/app/atmeex/id1546901226) |
 | Hunter Navigator | iOS development | Swift, UIKit, OSM, CoreLocation | on request |
