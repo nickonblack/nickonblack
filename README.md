@@ -1,21 +1,21 @@
 # Nikita Grigorchuk
 
-**Frontend developer (Angular)** · industrial automation / SCADA
+**Frontend developer (Angular)** · iOS developer (Swift) · industrial SCADA
 
 Rostov-on-Don · [nickonblack.is-a.dev](https://nickonblack.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/nikita-grigorchuk-79709a376) · [Telegram](https://t.me/nickonblack)
 
 I work on **[Visual SCADA](https://vscada.ru/)** — a web platform for industrial dispatching. My main area is the Angular client: project editors, mimic diagrams, journals, and trends in a single web IDE. I also write a Node.js configuration server, work with **OPC UA**, **Modbus**, and **IEC 61131-3**, and often ship the system to Linux.
 
-Before that I spent four years on commercial iOS apps (Swift, UIKit, Flutter): navigation, climate control, B2B.
+Before that — four years as an **iOS developer**: commercial apps in the App Store on Swift / UIKit, some Flutter. Navigation, climate control, B2B.
 
 Interested in Angular roles: product, industrial IoT, SCADA, complex UI.
 
 ## Stack
 
 **Frontend:** Angular, TypeScript, JavaScript, RxJS, HTML5, CSS3  
+**iOS:** Swift, UIKit, Flutter  
 **Backend / infra:** Node.js, Git, Linux  
-**Domain:** SCADA, OPC UA, Modbus, IEC 61131-3  
-**Earlier:** Swift, UIKit, Flutter
+**Domain:** SCADA, OPC UA, Modbus, IEC 61131-3
 
 ## Selected work
 
