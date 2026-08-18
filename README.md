@@ -1,6 +1,4 @@
-# Nikita Grigorchuk
-
-**Frontend developer (Angular)** · iOS developer (Swift) · industrial SCADA
+# Frontend developer (Angular) · iOS (Swift) · industrial SCADA
 
 Rostov-on-Don · [nickonblack.is-a.dev](https://nickonblack.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/nikita-grigorchuk-79709a376) · [Telegram](https://t.me/nickonblack)
 
